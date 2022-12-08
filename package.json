@@ -1,0 +1,24 @@
+{
+  "name": "tscalculator2024",
+  "version": "1.0.5",
+  "description": "typescript calculator",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "bin": "./index",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  },
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^18.11.11",
+    "chalk": "^5.1.2"
+  }
+}
